@@ -15,9 +15,4 @@ public class LeyesRobotica {
 		return respuesta + leyes;
 	}
 
-	public static void main(String[] args) {
-		LeyesRobotica ley= new LeyesRobotica();
-		System.out.println(ley.mostrar());
-	}
-
 }
